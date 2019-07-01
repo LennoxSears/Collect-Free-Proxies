@@ -7,7 +7,7 @@ This project collect tons of free proxies you can find on internet. Update free 
 ## Installation
 1. In terminal, run
 `node updateProxyList.js`
-2. Free proxies would be update in totalProxyList.txt every 15 mins.
+2. Free proxies would be updated in totalProxyList.txt every 15 mins.
 
 ## Related Project
 
