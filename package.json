@@ -12,7 +12,7 @@
     "chrome-launcher": "^0.10.2",
     "chromeless": "^1.5.0",
     "geoip-lite": "^1.2.1",
-    "proxy-verifier": "^0.4.0",
+    "proxy-verifier": "^0.4.4",
     "request": "^2.83.0",
     "throttle": "^1.0.3"
   },
