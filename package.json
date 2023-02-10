@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chrome-launcher": "^0.10.2",
+    "chrome-launcher": "^0.13.2",
     "chromeless": "^1.5.0",
     "geoip-lite": "^1.2.1",
     "proxy-verifier": "^0.4.0",
